@@ -1,0 +1,37 @@
+.content{
+    background-color: #343131;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.allContent{
+    background-color: #343131;
+}
+
+span{
+    color: #C6B6B6;
+    font-size: 70px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 60px;
+}
+
+p{
+    color: #F69D18;
+    font-size: 70px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+h2{
+    color: #C6B6B6; 
+}
+
+.content-position{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}

@@ -1,0 +1,21 @@
+.card{
+    border: solid black 1px;
+    border-radius: 0.7em;
+    box-shadow: 2px 5px 10px black;
+}
+
+.card-img-top{
+    border-radius: 1em;
+}
+
+.card-body{
+    background-color:#C6B6B6;
+}
+
+.card-title{
+    color:#343131 ;
+}
+
+.card-text{
+    color:#343131 ;
+}
