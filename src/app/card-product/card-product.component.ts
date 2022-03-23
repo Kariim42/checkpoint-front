@@ -10,11 +10,11 @@ import { ProductService } from '../shared/services/product.service';
 export class CardProductComponent {
     products : Product[] | undefined;
 
-  constructor( private productService: ProductService) {
+  /*constructor(private productService: ProductService) {
     this.productService.getProduct().subscribe((response:Product[] | undefined) => {
       response = this.products;
       console.log(response);
     }
-    )}
+    )}*/
 
 }
